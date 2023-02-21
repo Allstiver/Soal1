@@ -1,4 +1,4 @@
-# Soal1
+//Soal1
 #include <iostream>
 using namespace std;
 
